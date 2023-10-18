@@ -5,35 +5,40 @@
             "firstname":"John",
             "lastname":"Dough",
             "contactnumber":"151233512362",
-            "email":"john_dough@gmail.com"
+            "email":"john_dough@gmail.com",
+            "pic":"https://api.dicebear.com/7.x/adventurer/svg"
         },
         {
             "id":"2",
             "firstname":"Pepa",
             "lastname":"Pig",
             "contactnumber":"09562211511",
-            "email":"john_dough@gmail.com"
+            "email":"john_dough@gmail.com",
+             "pic":"https://api.dicebear.com/7.x/adventurer-neutral/svg"
         },
          {
             "id":"3",
             "firstname":"Sponge",
             "lastname":"Bob",
             "contactnumber":"15161211521",
-            "email":"john_dough@gmail.com"
+            "email":"john_dough@gmail.com",
+              "pic":"https://api.dicebear.com/7.x/avataaars/svg"
         },
         {
             "id":"4",
             "firstname":"Patrick",
             "lastname":"Star",
             "contactnumber":"36985201451",
-            "email":"john_dough@gmail.com"
+            "email":"john_dough@gmail.com",
+             "pic":"https://api.dicebear.com/7.x/avataaars-neutral/svg"
         },
          {
             "id":"5",
             "firstname":"Monkey",
             "lastname":"Luffy",
             "contactnumber":"1452152114521",
-            "email":"john_dough@gmail.com"
+            "email":"john_dough@gmail.com",
+            "pic":"https://api.dicebear.com/7.x/big-ears/svg"
         }
     ]
 }
